@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gif-experience-app/static/css/main.b02a1e32.chunk.css",
+    "main.js": "/gif-experience-app/static/js/main.9c0c5bb1.chunk.js",
+    "main.js.map": "/gif-experience-app/static/js/main.9c0c5bb1.chunk.js.map",
+    "runtime-main.js": "/gif-experience-app/static/js/runtime-main.7956749a.js",
+    "runtime-main.js.map": "/gif-experience-app/static/js/runtime-main.7956749a.js.map",
+    "static/js/2.365bb69a.chunk.js": "/gif-experience-app/static/js/2.365bb69a.chunk.js",
+    "static/js/2.365bb69a.chunk.js.map": "/gif-experience-app/static/js/2.365bb69a.chunk.js.map",
+    "index.html": "/gif-experience-app/index.html",
+    "static/css/main.b02a1e32.chunk.css.map": "/gif-experience-app/static/css/main.b02a1e32.chunk.css.map",
+    "static/js/2.365bb69a.chunk.js.LICENSE.txt": "/gif-experience-app/static/js/2.365bb69a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7956749a.js",
+    "static/js/2.365bb69a.chunk.js",
+    "static/css/main.b02a1e32.chunk.css",
+    "static/js/main.9c0c5bb1.chunk.js"
+  ]
+}
